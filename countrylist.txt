@@ -88,7 +88,6 @@ Portugal :flag_pt:
 Qatar :flag_qa: 
 Romania :flag_ro: 
 Russia :flag_ru: 
-Soviet Union <:s:291707188483981312> 
 Samoa :flag_ws: 
 San Marino :flag_sm: 
 Saudi Arabia :flag_sa: 
@@ -131,10 +130,12 @@ Zimbabwe :flag_zw:
 European Union :flag_eu:
 NATO <:f:389357659373174784>
 United Nations <:flag_un:313207960698355712>
+
 = Former States
 Confederate States of America <:flag_cf:292836921921765378> 
 Greater German Reich <:w:291694087008944138> 
 Republic of Texas <:t:397165277915250699> 
+Soviet Union <:s:291707188483981312>
 
 = Fictional/Hypothetical
 
