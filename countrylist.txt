@@ -40,7 +40,7 @@ Ghana :flag_gh:
 Greece :flag_gr: 
 Grenada :flag_gd: 
 Guyana :flag_gy: 
-Greenland 
+Greenland :flag_gl:
 Haiti :flag_ht: 
 India :flag_in: 
 Indonesia :flag_id: 
@@ -49,7 +49,7 @@ Iraq :flag_iq:
 Ireland :flag_ie: 
 Israel :flag_il: 
 Italy :flag_it: 
-Ivory Coast 
+Ivory Coast :flag_ci:
 Jamaica :flag_jm: 
 Japan :flag_jp: 
 Jordan :flag_jo: 
