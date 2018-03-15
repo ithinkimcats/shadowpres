@@ -158,3 +158,4 @@ New California Republic <:flag_newcali:402981027040985101>
 European Empire (Netherlands :flag_nl:, Belgium :flag_be:, Switzerland :flag_ch:, Slovakia :flag_sk:, Hungary :flag_hu:)
 Quebec <:flag_quebec:423607275870093312>
 Yggdrasil Treehouse <:flag_ygg:423595597371670557>
+Soviet Republics of Swagcar <:flag_swagcar:423705151212355584>
