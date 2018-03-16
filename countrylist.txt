@@ -159,3 +159,4 @@ European Empire (Netherlands :flag_nl:, Belgium :flag_be:, Switzerland :flag_ch:
 Quebec <:flag_quebec:423607275870093312>
 Yggdrasil Treehouse <:flag_ygg:423595597371670557>
 Soviet Republics of Swagcar <:flag_swagcar:423705151212355584>
+Saint Domingue <:flag_saintd:424091549501095937>
