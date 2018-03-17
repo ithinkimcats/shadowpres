@@ -133,14 +133,13 @@ United Nations <:flag_un:313207960698355712>
 African Union <:flag_africa:424462430156881930>
 
 = Former States
-Confederate States of America <:flag_cf:292836921921765378> 
-Greater German Reich <:w:291694087008944138> 
+Confederate States of America <:flag_cf:292836921921765378> [Removed on Yggdrasil]
+Greater German Reich <:w:291694087008944138> [Removed on Yggdrasil]
 Republic of Texas <:t:397165277915250699> 
 Soviet Union <:s:291707188483981312>
 Prussia <:flag_prussia:423606482173689856>
 
 = Fictional/Hypothetical
-
 Republic of Kekistan <:flag_kek:397188884146028544> 
 United Kingdom of jagrosh <:flag_jag:397417136248848406> 
 Kingdom of Funny Domains <:flag_owo:397425798618939402> 
@@ -154,7 +153,7 @@ Federal Regime of Pointy <:flag_pointy:397805309848059914>
 Socialist Union of Floretta <:flag_floretta:397813877016100865> 
 United States of Blob <:flag_blob:397929427478118420> 
 Grandiose City <:flag_voice:398182744208965643> 
-Greater Shengaero Reich <:flag_monitor:398194235779710978>
+Greater Shengaero Reich <:flag_monitor:398194235779710978> [Renamed on Yggdrasil]
 New California Republic <:flag_newcali:402981027040985101>
 European Empire (Netherlands :flag_nl:, Belgium :flag_be:, Switzerland :flag_ch:, Slovakia :flag_sk:, Hungary :flag_hu:)
 Quebec <:flag_quebec:423607275870093312>
