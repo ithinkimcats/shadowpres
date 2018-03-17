@@ -130,6 +130,7 @@ Zimbabwe :flag_zw:
 European Union :flag_eu:
 NATO <:f:389357659373174784>
 United Nations <:flag_un:313207960698355712>
+African Union <:flag_africa:424462430156881930>
 
 = Former States
 Confederate States of America <:flag_cf:292836921921765378> 
