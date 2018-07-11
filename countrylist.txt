@@ -1,4 +1,5 @@
-Afghanistan :flag_af: 
+= Recognized Countries 
+Afghanistan :flag_af:
 Algeria :flag_dz: 
 Andorra :flag_ad: 
 Angola :flag_ao: 
