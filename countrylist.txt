@@ -134,14 +134,11 @@ United Nations <:flag_un:313207960698355712>
 African Union <:flag_africa:424462430156881930>
 
 = Former States
-Confederate States of America <:flag_cf:292836921921765378> [Removed on Yggdrasil]
-Greater German Reich <:w:291694087008944138> [Removed on Yggdrasil]
 Republic of Texas <:t:397165277915250699> 
 Soviet Union <:s:291707188483981312>
 Prussia <:flag_prussia:423606482173689856>
 
 = Fictional/Hypothetical
-Republic of Kekistan <:flag_kek:397188884146028544> 
 United Kingdom of jagrosh <:flag_jag:397417136248848406> 
 Kingdom of Funny Domains <:flag_owo:397425798618939402> 
 Regime of Wiseau <:flag_room:397432752019865600> 
